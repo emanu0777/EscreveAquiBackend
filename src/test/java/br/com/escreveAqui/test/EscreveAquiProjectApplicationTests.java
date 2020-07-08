@@ -1,4 +1,4 @@
-package br.com.qintess;
+package br.com.escreveAqui.test;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.test.context.ContextConfiguration;
